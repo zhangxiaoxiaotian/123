@@ -1,0 +1,128 @@
+2019-02-24 17:04:27,793 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:04:27,801 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:27，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:04:27,881 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:27在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:04:27,913 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:04:27,921 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:27，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:04:27,976 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:27在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:04:28,005 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:04:28,015 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28，元素('xpath', '//button')出现已找到
+2019-02-24 17:04:28,068 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:27单击元素('xpath', '//button')
+2019-02-24 17:04:28,098 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='form-error-info']")出现，等待元素加载用时0秒
+2019-02-24 17:04:28,108 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28，元素('xpath', "//div[@class='form-error-info']")出现已找到
+2019-02-24 17:04:28,543 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:04:28,549 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:04:28,578 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:04:28,599 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:04:28,608 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:04:28,651 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:04:28,673 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:04:28,682 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28，元素('xpath', '//button')出现已找到
+2019-02-24 17:04:28,737 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28单击元素('xpath', '//button')
+2019-02-24 17:04:28,763 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='form-error-info']")出现，等待元素加载用时0秒
+2019-02-24 17:04:28,773 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:28，元素('xpath', "//div[@class='form-error-info']")出现已找到
+2019-02-24 17:04:29,023 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:04:29,030 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:04:29,087 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:04:29,109 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:04:29,117 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:04:29,173 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:04:29,192 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:04:29,201 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29，元素('xpath', '//button')出现已找到
+2019-02-24 17:04:29,268 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29单击元素('xpath', '//button')
+2019-02-24 17:04:29,293 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='form-error-info']")出现，等待元素加载用时0秒
+2019-02-24 17:04:29,302 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29，元素('xpath', "//div[@class='form-error-info']")出现已找到
+2019-02-24 17:04:29,664 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:04:29,672 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:04:29,742 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:04:29,760 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:04:29,768 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:04:29,810 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:04:29,830 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:04:29,840 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29，元素('xpath', '//button')出现已找到
+2019-02-24 17:04:29,898 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:29单击元素('xpath', '//button')
+2019-02-24 17:04:30,432 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='layui-layer-content']")出现，等待元素加载用时0秒
+2019-02-24 17:04:30,441 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:30，元素('xpath', "//div[@class='layui-layer-content']")出现已找到
+2019-02-24 17:04:30,752 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:04:30,760 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:30，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:04:30,836 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:30在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:04:30,855 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:04:30,864 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:30，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:04:30,907 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:30在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:04:30,926 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:04:30,934 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:30，元素('xpath', '//button')出现已找到
+2019-02-24 17:04:30,992 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:30单击元素('xpath', '//button')
+2019-02-24 17:04:31,520 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='layui-layer-content']")出现，等待元素加载用时0秒
+2019-02-24 17:04:31,528 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:31，元素('xpath', "//div[@class='layui-layer-content']")出现已找到
+2019-02-24 17:04:31,787 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:04:31,794 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:31，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:04:31,860 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:31在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:04:31,881 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:04:31,888 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:31，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:04:31,933 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:31在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:04:31,951 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:04:31,960 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:31，元素('xpath', '//button')出现已找到
+2019-02-24 17:04:32,013 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:04:31单击元素('xpath', '//button')
+2019-02-24 17:08:10,883 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:08:10,892 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:10，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:08:10,984 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:10在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:08:11,013 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:08:11,022 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:08:11,067 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:10在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:08:11,103 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:08:11,111 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11，元素('xpath', '//button')出现已找到
+2019-02-24 17:08:11,186 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11单击元素('xpath', '//button')
+2019-02-24 17:08:11,223 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='form-error-info']")出现，等待元素加载用时0秒
+2019-02-24 17:08:11,234 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11，元素('xpath', "//div[@class='form-error-info']")出现已找到
+2019-02-24 17:08:11,535 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:08:11,543 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:08:11,571 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:08:11,594 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:08:11,602 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:08:11,643 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:08:11,664 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:08:11,673 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11，元素('xpath', '//button')出现已找到
+2019-02-24 17:08:11,726 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11单击元素('xpath', '//button')
+2019-02-24 17:08:11,754 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='form-error-info']")出现，等待元素加载用时0秒
+2019-02-24 17:08:11,763 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:11，元素('xpath', "//div[@class='form-error-info']")出现已找到
+2019-02-24 17:08:12,127 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:08:12,138 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:08:12,184 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:08:12,204 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:08:12,214 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:08:12,259 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:08:12,280 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:08:12,288 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12，元素('xpath', '//button')出现已找到
+2019-02-24 17:08:12,340 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12单击元素('xpath', '//button')
+2019-02-24 17:08:12,363 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='form-error-info']")出现，等待元素加载用时0秒
+2019-02-24 17:08:12,372 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12，元素('xpath', "//div[@class='form-error-info']")出现已找到
+2019-02-24 17:08:12,644 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:08:12,655 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:08:12,719 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:08:12,741 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:08:12,752 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:08:12,799 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:08:12,825 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:08:12,834 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12，元素('xpath', '//button')出现已找到
+2019-02-24 17:08:12,893 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:12单击元素('xpath', '//button')
+2019-02-24 17:08:13,428 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='layui-layer-content']")出现，等待元素加载用时0秒
+2019-02-24 17:08:13,437 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:13，元素('xpath', "//div[@class='layui-layer-content']")出现已找到
+2019-02-24 17:08:13,697 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:08:13,707 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:13，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:08:13,765 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:13在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:08:13,787 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:08:13,795 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:13，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:08:13,835 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:13在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:08:13,854 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:08:13,864 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:13，元素('xpath', '//button')出现已找到
+2019-02-24 17:08:13,926 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:13单击元素('xpath', '//button')
+2019-02-24 17:08:14,467 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//div[@class='layui-layer-content']")出现，等待元素加载用时0秒
+2019-02-24 17:08:14,474 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:14，元素('xpath', "//div[@class='layui-layer-content']")出现已找到
+2019-02-24 17:08:14,739 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='phone']")出现，等待元素加载用时0秒
+2019-02-24 17:08:14,746 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:14，元素('xpath', "//input[@name='phone']")出现已找到
+2019-02-24 17:08:14,795 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:14在元素('xpath', "//input[@name='phone']")中输入文本内容
+2019-02-24 17:08:14,815 - DEBUG - my_log.py - log - 日志内容:元素('xpath', "//input[@name='password']")出现，等待元素加载用时0秒
+2019-02-24 17:08:14,825 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:14，元素('xpath', "//input[@name='password']")出现已找到
+2019-02-24 17:08:14,868 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:14在元素('xpath', "//input[@name='password']")中输入文本内容
+2019-02-24 17:08:14,889 - DEBUG - my_log.py - log - 日志内容:元素('xpath', '//button')出现，等待元素加载用时0秒
+2019-02-24 17:08:14,897 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:14，元素('xpath', '//button')出现已找到
+2019-02-24 17:08:14,951 - DEBUG - my_log.py - log - 日志内容:2019-02-24 17:08:14单击元素('xpath', '//button')
